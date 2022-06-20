@@ -1,0 +1,18 @@
+﻿Usando a abordagem de um único projeto, podemos definir o microsserviços como pequenas partes/funções deste projeto que são desenvolvidas de forma isoladas e quando anexadas completam a funcionalidade deste projeto, enquanto que na arquitetura monolítica, a implementação é feita de forma única, ou seja, uma única parte responsável por toda a funcionalidade do sistema.
+
+Microsserviços são uma abordagem de arquitetura para a criação de aplicações. Como um framework de arquitetura, microsserviços são distribuídos e levemente acoplados para que as mudanças de uma equipe não corrompam toda a aplicação. A vantagem de usar microsserviços é que as equipes de desenvolvimento conseguem criar rapidamente novos componentes de aplicação para atender às necessidades de negócios em constante mudança
+
+
+
+O uso de microsserviços traz grandes vantagens e algumas desvantagens.
+As vantagens neste tipo de projeto (baseado em microsserviços) são:
+    • Alta Acessível;
+    • Fácil de implantar;
+    • Altamente escalável
+    • 
+Tipos de comunicação por microsserviços:
+    • Comunicação por HTTP
+    • Comunicação por Mensagens
+    • Comunicação Orientada a Eventos
+
+
