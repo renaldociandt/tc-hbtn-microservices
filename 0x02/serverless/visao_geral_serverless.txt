@@ -1,0 +1,16 @@
+﻿Serverless é um modelo de desenvolvimento nativo em nuvem para criação e execução de aplicações sem o gerenciamento de servidores.
+
+Os servidores ainda são usados nesse modelo, mas eles são abstraídos do desenvolvimento de aplicações. O provedor de nuvem fica responsável pelas tarefas rotineiras de provisionamento, manutenção e escala da infraestrutura do servidor. Os desenvolvedores só precisam empacotar o código em contêineres para fazer a implantação.
+Função como serviço (FaaS) é um modelo de execução de computação orientado a eventos. Com ele, os desenvolvedores gravam a lógica, que é implantada em contêineres totalmente gerenciados por uma plataforma e executada sob demanda.
+Em comparação com BaaS, o modelo FaaS proporciona maior controle aos desenvolvedores. Isso possibilita a criação de aplicações personalizadas, evitando a dependência de uma biblioteca de serviços pré-gravados. 
+
+É fato que as arquiteturas sem servidor podem se beneficiar de custos operacionais, complexidade e tempo de execução de engenharia significativamente reduzidos – razão pela qual tendem a se popularizar cada vez mais.
+Resumindo, a computação em nuvem é o fornecimento de serviços de computação, incluindo servidores, armazenamento, bancos de dados, rede, software, análise e inteligência, pela Internet (“a nuvem”) para oferecer inovações mais rápidas, recursos flexíveis e economias de escala. 
+Benefícios:
+Custo
+Desempenho
+Produtividade
+Velocidade
+
+
+
